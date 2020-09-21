@@ -1,1 +1,3 @@
-# firstdjangoapp
+# My First django app 
+it is based on sending email to your email addresses for the confirmation of your account.
+some new things will get updated lately....
